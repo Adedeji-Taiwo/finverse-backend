@@ -1,0 +1,13 @@
+POST http://localhost:3003/api/waitlist
+Content-Type: application/json
+
+
+{
+    "email": "dtaiwo450@gmail.com",
+    "feature": "wert",
+    "alternative": "werghnbvcx",
+    "others": "myalt attt",
+    "success": "sxxxxxxxxxxxxxx",
+    "pricing": "sssssssddddddds",
+    "premium": "vvvvvvvvvvvvvv"
+}
