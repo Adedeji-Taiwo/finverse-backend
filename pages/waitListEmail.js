@@ -1,4 +1,4 @@
-module.exports = () => {
+module.exports = (email) => {
   return `
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" style="font-family:arial, 'helvetica neue', helvetica, sans-serif">
@@ -74,7 +74,7 @@ module.exports = () => {
     <td class="es-m-p0r es-m-p20b" valign="top" align="center" style="padding:0;Margin:0;width:205px">
     <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
     <tr>
-    <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="https://finverse-beta.vercel.app/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img src="https://res.cloudinary.com/dhegyaino/image/upload/v1719070732/finverse_sk40qu.png" alt="Logo" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="40" title="Logo"></a></td>
+    <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="https://finverse-beta.vercel.app/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img src="https://res.cloudinary.com/dhegyaino/image/upload/v1719070732/finverse_sk40qu.png" alt="Logo" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="60" title="Logo"></a></td>
     </tr>
     </table></td>
     </tr>
@@ -131,10 +131,10 @@ module.exports = () => {
     <td align="center" valign="top" style="padding:0;Margin:0;width:610px">
     <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
     <tr>
-    <td align="left" style="padding:0;Margin:0"><h2 style="Margin:0;line-height:43px;mso-line-height-rule:exactly;font-family:Nunito, Roboto, sans-serif;font-size:32px;font-style:normal;font-weight:bold;color:#000000">COMING SOON</h2></td>
+    <td align="left" style="padding:0;Margin:0"><h2 style="Margin:0;line-height:43px;mso-line-height-rule:exactly;font-family:Nunito, Roboto, sans-serif;font-size:28px;font-style:normal;font-weight:bold;color:#000000">COMING SOON</h2></td>
     </tr>
     <tr>
-    <td align="left" style="padding:0;Margin:0"><h1 style="Margin:0;line-height:65px;mso-line-height-rule:exactly;font-family:Nunito, Roboto, sans-serif;font-size:50px;font-style:normal;font-weight:bold;color:#E6B33E">Finverse</h1></td>
+    <td align="left" style="padding:0;Margin:0"><h1 style="Margin:0;line-height:65px;mso-line-height-rule:exactly;font-family:Nunito, Roboto, sans-serif;font-size:40px;font-style:normal;font-weight:bold;color:#E6B33E">Finverse</h1></td>
     </tr>
     </table></td>
     </tr>
@@ -147,17 +147,11 @@ module.exports = () => {
     <td class="es-m-p20b" align="left" style="padding:0;Margin:0;width:229px">
     <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
     <tr>
-    <td align="left" class="es-m-p20r" style="padding:0;Margin:0;padding-bottom:15px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#000000;font-size:14px">The&nbsp;<strong>metaverse</strong>&nbsp;is&nbsp;already changing&nbsp;the way we live and work, offering us a hybrid state of existence.<br>Thank you for joining our waiting list. You will be one of first to know when we launch. Cheers!</p></td>
+    <td align="left" class="es-m-p20r" style="padding:0;Margin:0;padding-bottom:15px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#000000;font-size:14px">Hi ${email}!<br> Thank you for joining the&nbsp;<strong>Finverse</strong>&nbsp;waiting list! We're excited to have you on board as we prepare to launch a holistic financial management platform tailored just for you.<br> At FinVerse, our mission is to empower you to take control of your financial health with ease and confidence. Here’s what you can look forward to:<br>&nbsp;<strong>Personalized Financial Guidance:</strong>&nbsp; Get insights and support from financial wellness mentors.<br>&nbsp;<strong>Comprehensive Financial Tools:</strong>&nbsp;Track your income, expenses, savings, and investments all in one place.<br>&nbsp;<strong>Goal-Oriented Planning:</strong>&nbsp;Break down your financial goals into actionable steps and monitor your progress.<br>&nbsp;<strong>Exclusive Opportunities:</strong>&nbsp;Access vetted financial products and services tailored to your needs.<br>Stay tuned for updates and early access opportunities. In the meantime, connect with us on social media and spread the word about FinVerse!<br><br>Together, let's transform your financial narrative.<br><br>Brought to you by your Accountability Buddy,<br><strong>Hafsat Itanola</strong></p></td>
     </tr>
     </table></td>
     </tr>
     <tr>
-    <td class="es-m-p20b" align="left" style="padding:0;Margin:0;width:204px">
-    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-    <tr>
-    <td align="left" class="es-m-p20r" style="padding:0;Margin:0;padding-top:20px;padding-bottom:20px"><span class="es-button-border" style="border-style:solid;border-color:#2CB543;background:#ff9b00;border-width:0px;display:inline-block;border-radius:30px;width:auto"><a href="https://wiizzkid.com" class="es-button" target="_blank" style="mso-style-priority:100 !important;text-decoration:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;color:#FFFFFF;font-size:18px;border-style:solid;border-color:#5f3c5e;border-width:10px 20px 10px 20px;display:inline-block;background:#5f3c5e;border-radius:30px;font-family:Nunito, Roboto, sans-serif;font-weight:normal;font-style:normal;line-height:22px;width:auto;text-align:center">Learn More</a></span></td>
-    </tr>
-    </table></td>
     </tr>
     </table><!--[if mso]></td><td style="width:5px"></td><td style="width:396px" valign="top"><![endif]-->
     <table cellpadding="0" cellspacing="0" class="es-right" align="right" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
@@ -188,14 +182,14 @@ module.exports = () => {
     <td align="center" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px;font-size:0">
     <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
     <tr>
-    <td align="center" valign="top" style="padding:0;Margin:0;padding-right:20px"><a target="_blank" href="https://m.facebook.com/profile.php?id=100082081963635" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img title="Facebook" src="https://vojdsp.stripocdn.email/content/assets/img/social-icons/logo-colored/facebook-logo-colored.png" alt="Fb" width="24" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
-    <td align="center" valign="top" style="padding:0;Margin:0;padding-right:20px"><a target="_blank" href="https://twitter.com/0xLivingStone/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img title="Twitter" src="https://vojdsp.stripocdn.email/content/assets/img/social-icons/logo-colored/twitter-logo-colored.png" alt="Tw" width="24" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
-    <td align="center" valign="top" style="padding:0;Margin:0"><a target="_blank" href="https://instagram.com/livinstone_consultancy?igshid=YmMyMTA2M2Y=" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img title="Instagram" src="https://vojdsp.stripocdn.email/content/assets/img/social-icons/logo-colored/instagram-logo-colored.png" alt="Inst" width="24" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+    <td align="center" valign="top" style="padding:0;Margin:0;padding-right:20px"><a target="_blank" href="https://youtube.com/@mcwh" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img title="Facebook" src="https://vojdsp.stripocdn.email/content/assets/img/social-icons/circle-colored/youtube-circle-colored.png" alt="Fb" width="24" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+    <td align="center" valign="top" style="padding:0;Margin:0;padding-right:20px"><a target="_blank" href="https://www.linkedin.com/in/hafsat-itanola" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img title="Twitter" src="https://vojdsp.stripocdn.email/content/assets/img/social-icons/circle-colored/linkedin-circle-colored.png" alt="Tw" width="24" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
+    <td align="center" valign="top" style="padding:0;Margin:0"><a target="_blank" href="https://www.instagram.com/moneychatwithhafsat" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img title="Instagram" src="https://vojdsp.stripocdn.email/content/assets/img/social-icons/logo-colored/instagram-logo-colored.png" alt="Inst" width="24" height="24" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"></a></td>
     </tr>
     </table></td>
     </tr>
     <tr>
-    <td align="center" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:18px;color:#5f3c5e;font-size:12px">You are receiving this email because you have visited our site and&nbsp;joined our finverse waiting list. Make sure our messages get to your Inbox (and not your bulk or junk folders).</p></td>
+    <td align="center" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:18px;color:#5f3c5e;font-size:12px">You are receiving this email because you have visited our site and&nbsp;joined our Finverse waiting list. Make sure our messages get to your Inbox (and not your bulk or junk folders).</p></td>
     </tr>
     </table></td>
     </tr>

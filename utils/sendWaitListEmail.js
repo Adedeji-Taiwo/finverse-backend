@@ -22,7 +22,7 @@ module.exports = async (email, subject) => {
       },
       to: email,
       subject: subject,
-      html: waitListEmail(),
+      html: waitListEmail(email.split("@")[0]),
     });
     console.log("Email sent successfully");
   } catch (error) {

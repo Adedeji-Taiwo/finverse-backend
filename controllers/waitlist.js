@@ -43,7 +43,10 @@ waitListRouter.post("/", async (req, res) => {
   const savedSubscriber = await subscriber.save();
   res.status(201).json(savedSubscriber);
 
-  await sendWaitListEmail(subscriber.email, "Finverse WaitList");
+  await sendWaitListEmail(
+    subscriber.email,
+    "Welcome to the FinVerse Community!"
+  );
 });
 
 //delete subscriber route
