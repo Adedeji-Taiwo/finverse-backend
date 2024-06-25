@@ -147,7 +147,7 @@ module.exports = (email) => {
     <td class="es-m-p20b" align="left" style="padding:0;Margin:0;width:229px">
     <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
     <tr>
-    <td align="left" class="es-m-p20r" style="padding:0;Margin:0;padding-bottom:15px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#000000;font-size:14px">Hi ${email}!<br> Thank you for joining the&nbsp;<strong>Finverse</strong>&nbsp;waiting list! We're excited to have you on board as we prepare to launch a holistic financial management platform tailored just for you.<br> At FinVerse, our mission is to empower you to take control of your financial health with ease and confidence. Here’s what you can look forward to:<br>&nbsp;<strong>Personalized Financial Guidance:</strong>&nbsp; Get insights and support from financial wellness mentors.<br>&nbsp;<strong>Comprehensive Financial Tools:</strong>&nbsp;Track your income, expenses, savings, and investments all in one place.<br>&nbsp;<strong>Goal-Oriented Planning:</strong>&nbsp;Break down your financial goals into actionable steps and monitor your progress.<br>&nbsp;<strong>Exclusive Opportunities:</strong>&nbsp;Access vetted financial products and services tailored to your needs.<br>Stay tuned for updates and early access opportunities. In the meantime, connect with us on social media and spread the word about FinVerse!<br><br>Together, let's transform your financial narrative.<br><br>Brought to you by your Accountability Buddy,<br><strong>Hafsat Itanola</strong></p></td>
+    <td align="left" class="es-m-p20r" style="padding:0;Margin:0;padding-bottom:15px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#000000;font-size:13px">Hi ${email}!<br><br> Thank you for joining the&nbsp;<strong>Finverse</strong>&nbsp;waiting list! We're excited to have you on board as we prepare to launch a holistic financial management platform tailored just for you.<br><br> At FinVerse, our mission is to empower you to take control of your financial health with ease and confidence. Here’s what you can look forward to:<br><br>&nbsp;<strong>Personalized Financial Guidance:</strong>&nbsp; Get insights and support from financial wellness mentors.<br>&nbsp;<strong>Comprehensive Financial Tools:</strong>&nbsp;Track your income, expenses, savings, and investments all in one place.<br>&nbsp;<strong>Goal-Oriented Planning:</strong>&nbsp;Break down your financial goals into actionable steps and monitor your progress.<br>&nbsp;<strong>Exclusive Opportunities:</strong>&nbsp;Access vetted financial products and services tailored to your needs.<br><br>Stay tuned for updates and early access opportunities. In the meantime, connect with us on social media and spread the word about FinVerse!<br><br>Together, let's transform your financial narrative.<br><br>Brought to you by:<br><strong>Money Chat With Hafsat</strong></p></td>
     </tr>
     </table></td>
     </tr>
@@ -155,14 +155,6 @@ module.exports = (email) => {
     </tr>
     </table><!--[if mso]></td><td style="width:5px"></td><td style="width:396px" valign="top"><![endif]-->
     <table cellpadding="0" cellspacing="0" class="es-right" align="right" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
-    <tr>
-    <td align="left" style="padding:0;Margin:0;width:396px">
-    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-    <tr>
-    <td align="center" style="padding:0;Margin:0;font-size:0px"><img class="adapt-img" src="https://res.cloudinary.com/dhegyaino/image/upload/v1657219229/undraw_Happy_news_re_tsbd_zdndxd.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="396"></td>
-    </tr>
-    </table></td>
-    </tr>
     </table><!--[if mso]></td></tr></table><![endif]--></td>
     </tr>
     </table></td>

@@ -22,7 +22,11 @@ module.exports = async (email, subject) => {
       },
       to: email,
       subject: subject,
-      html: waitListEmail(email.split("@")[0]),
+      html: waitListEmail(
+        `${email.split("@")[0].charAt(0).toUpperCase()}${email
+          .split("@")[0]
+          .slice(1)}`
+      ),
     });
     console.log("Email sent successfully");
   } catch (error) {
