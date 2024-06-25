@@ -54,7 +54,7 @@ module.exports = (email) => {
     </style>
     </head>
     <body style="width:100%;font-family:arial, 'helvetica neue', helvetica, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0">
-    <div class="es-wrapper-color" style="background-color:#FF9F00"><!--[if gte mso 9]>
+    <div class="es-wrapper-color" style="background-color:#5f3c5e"><!--[if gte mso 9]>
     <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
     <v:fill type="tile" src="https://vojdsp.stripocdn.email/content/guids/CABINET_6c7b2f5b32978d89c268e7ceeb7bad21/images/group_63_61d.png" color="#5f3c5e" origin="0.5, 0" position="0.5, 0"></v:fill>
     </v:background>
@@ -123,7 +123,7 @@ module.exports = (email) => {
     <table cellpadding="0" cellspacing="0" class="es-content" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
     <tr>
     <td align="center" style="padding:0;Margin:0">
-    <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:650px">
+    <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:100%">
     <tr>
     <td align="left" style="padding:0;Margin:0;padding-top:20px;padding-left:20px;padding-right:20px">
     <table cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
@@ -147,7 +147,7 @@ module.exports = (email) => {
     <td class="es-m-p20b" align="left" style="padding:0;Margin:0;width:229px">
     <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
     <tr>
-    <td align="left" class="es-m-p20r" style="padding:0;Margin:0;padding-bottom:15px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#000000;font-size:13px">Hi ${email}!<br><br> Thank you for joining the&nbsp;<strong>Finverse</strong>&nbsp;waiting list! We're excited to have you on board as we prepare to launch a holistic financial management platform tailored just for you.<br><br> At FinVerse, our mission is to empower you to take control of your financial health with ease and confidence. Here’s what you can look forward to:<br><br>&nbsp;<strong>Personalized Financial Guidance:</strong>&nbsp; Get insights and support from financial wellness mentors.<br>&nbsp;<strong>Comprehensive Financial Tools:</strong>&nbsp;Track your income, expenses, savings, and investments all in one place.<br>&nbsp;<strong>Goal-Oriented Planning:</strong>&nbsp;Break down your financial goals into actionable steps and monitor your progress.<br>&nbsp;<strong>Exclusive Opportunities:</strong>&nbsp;Access vetted financial products and services tailored to your needs.<br><br>Stay tuned for updates and early access opportunities. In the meantime, connect with us on social media and spread the word about FinVerse!<br><br>Together, let's transform your financial narrative.<br><br>Brought to you by:<br><strong>Money Chat With Hafsat</strong></p></td>
+    <td align="left" class="es-m-p20r" style="padding:0;Margin:0;padding-bottom:15px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;color:#000000;font-size:13px">Hi ${email}!<br><br> Thank you for joining the&nbsp;<strong>Finverse</strong>&nbsp;waiting list! We're excited to have you on board as we prepare to launch a holistic financial management platform tailored just for you.<br><br> At FinVerse, our mission is to empower you to take control of your financial health with ease and confidence. Here’s what you can look forward to:<br><br>&nbsp;<strong>Personalized Financial Guidance:</strong>&nbsp; Get insights and support from financial wellness mentors.<br>&nbsp;<strong>Comprehensive Financial Tools:</strong>&nbsp;Track your income, expenses, savings, and investments all in one place.<br>&nbsp;<strong>Goal-Oriented Planning:</strong>&nbsp;Break down your financial goals into actionable steps and monitor your progress.<br>&nbsp;<strong>Exclusive Opportunities:</strong>&nbsp;Access vetted financial products and services tailored to your needs.<br><br>Stay tuned for updates and early access opportunities. In the meantime, connect with us on social media and spread the word about FinVerse!<br><br>Together, let's transform your financial narrative.<br><br>Brought to you by:&nbsp;<strong>Money Chat With Hafsat</strong></p></td>
     </tr>
     </table></td>
     </tr>
