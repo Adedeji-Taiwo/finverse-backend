@@ -74,7 +74,7 @@ module.exports = (email) => {
     <td class="es-m-p0r es-m-p20b" valign="top" align="center" style="padding:0;Margin:0;width:205px">
     <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
     <tr>
-    <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="https://finverse-beta.vercel.app/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img src="https://res.cloudinary.com/dhegyaino/image/upload/v1719070732/finverse_sk40qu.png" alt="Logo" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="60" title="Logo"></a></td>
+    <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="https://finverse-beta.vercel.app/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#02687F;font-size:12px"><img src="https://res.cloudinary.com/dhegyaino/image/upload/v1719070732/finverse_sk40qu.png" alt="Logo" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="80" title="Logo"></a></td>
     </tr>
     </table></td>
     </tr>
