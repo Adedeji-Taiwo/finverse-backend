@@ -141,7 +141,7 @@ module.exports = (email) => {
     </table></td>
     </tr>
     <tr>
-    <td align="left" style="padding:0;Margin:0;padding-top:10px;padding-left:20px"><!--[if mso]><table style="width:630px" cellpadding="0" cellspacing="0"><tr><td style="width:100%" valign="top"><![endif]-->
+    <td align="left" style="padding:0;Margin:0;padding-top:10px;padding-left:20px;padding-right:20px"><!--[if mso]><table style="width:630px" cellpadding="0" cellspacing="0"><tr><td style="width:100%" valign="top"><![endif]-->
     <table cellpadding="0" cellspacing="0" width="100%" class="es-left" align="left" style="mso-table-lspace:0pt;width:100%;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
     <tr>
     <td class="es-m-p20b" align="left" style="padding:0;Margin:0;width:100%">
