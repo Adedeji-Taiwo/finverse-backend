@@ -91,7 +91,7 @@ module.exports = (email) => {
     <table cellpadding="0" cellspacing="0" width="100%" class="es-menu" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
     <tr class="links">
     <td align="center" valign="top" width="50%" style="Margin:0;padding-left:5px;padding-right:5px;padding-top:10px;padding-bottom:10px;border:0"><a target="_blank" href="https://finverse-beta.vercel.app/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;display:block;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;color:#000000;font-size:12px;font-weight:normal">HOME</a></td>
-    <td align="center" valign="top" width="50%" style="Margin:0;padding-left:5px;padding-right:5px;padding-top:10px;padding-bottom:10px;border:0"><a target="_blank" href="https://finverse-beta.vercel.app/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;display:block;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;color:#000000;font-size:12px;font-weight:normal">CONTACT</a></td>
+    <td align="center" valign="top" width="50%" style="Margin:0;padding-left:5px;padding-right:5px;padding-top:10px;padding-bottom:10px;border:0"><a target="_blank" href="mailto:moneychatwithhafsat@gmail.com" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:none;display:block;font-family:'trebuchet ms', 'lucida grande', 'lucida sans unicode', 'lucida sans', tahoma, sans-serif;color:#000000;font-size:12px;font-weight:normal">CONTACT</a></td>
     </tr>
     </table></td>
     </tr>
@@ -141,7 +141,7 @@ module.exports = (email) => {
     </table></td>
     </tr>
     <tr>
-    <td align="left" style="padding:0;Margin:0;padding-top:10px;padding-left:20px;padding-right:20px"><!--[if mso]><table style="width:630px" cellpadding="0" cellspacing="0"><tr><td style="width:100%" valign="top"><![endif]-->
+    <td align="left" style="padding:0;Margin:0;padding-top:10px;padding-left:20px;padding-right:10px"><!--[if mso]><table style="width:630px" cellpadding="0" cellspacing="0"><tr><td style="width:100%" valign="top"><![endif]-->
     <table cellpadding="0" cellspacing="0" width="100%" class="es-left" align="left" style="mso-table-lspace:0pt;width:100%;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
     <tr>
     <td class="es-m-p20b" align="left" style="padding:0;Margin:0;width:100%">
